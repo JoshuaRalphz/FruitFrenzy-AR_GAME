@@ -1,3 +1,3 @@
 # FruitFrenzy-AR_GAME
 
-Hi Mr. Pola Please help me EXE. this game
+Hi Mr. Please help me EXE. this game

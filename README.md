@@ -1,3 +1,3 @@
 # FruitFrenzy-AR_GAME
 
-Hi Mr. Please help me EXE. this game
+Fruit Frenzy game AR Open CV using face mesh unpackage (not exe)
